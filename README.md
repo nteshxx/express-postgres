@@ -17,3 +17,13 @@ docker build image
 ```
 docker compose up
 ```
+
+## API Documentation
+
+Postman collection [API](https://documenter.getpostman.com/view/14659791/UVRHh2wK)
+
+Postman collection json is available in the root folder.
+
+
+#### Happy Coding!
+
